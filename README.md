@@ -1,6 +1,8 @@
 # warm-up-go
 > warm up coding with golang
 
+!!!DEPRECATED!!! Since I have found that a bite-sized problem solving works better for me, I use LeetCode, Codingame, HackerRank, TopCoder, etc. rather than this to be warmed up.
+
 ### Why?
 I have always wanted to be a good, productive, motivated, and effective programmer. Once I start to code on my computer, I can keep focusing for a while more than four hours usually. But what I struggle with is sometimes I cannot start my work. I don't know why, but it was difficult to open my IDE and start to write codes on it. (because I am not a robot?)
 
